@@ -1,6 +1,6 @@
-# string-syntax
+# GHC String Interpolation prototypes
 
-Prototype for String Interpolation ([proposal](https://github.com/ghc-proposals/ghc-proposals/pull/570)). Not meant for production usage, but can be used to try out different implementations.
+Prototypes for String Interpolation ([proposal](https://github.com/ghc-proposals/ghc-proposals/pull/570)). Not meant for production usage, but can be used to try out different implementations.
 
 Run the examples!
 
