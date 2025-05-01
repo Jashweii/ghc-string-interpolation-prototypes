@@ -1,0 +1,87 @@
+Timestamp,Username,Rank options [implicit-builder],Rank options [explicit],Rank options [implicit-only-string],Rank options [implicit-no-builder],Rank options [extensible-th],Rank options [extensible-hasclass],Which options do you like? [implicit-builder],Which options do you like? [explicit],Which options do you like? [implicit-only-string],Which options do you like? [implicit-no-builder],Which options do you like? [extensible-th],Which options do you like? [extensible-hasclass],Comments or Questions?
+2025-04-21 22:55:11,<scrubbed>,5,6,2,3,4,1,Somewhat happy,Really unhappy,Somewhat happy,Somewhat happy,Somewhat happy,Really happy,<scrubbed>
+2025-04-21 23:06:23,<scrubbed>,2,5,6,4,1,3,Really happy,Somewhat unhappy,Really unhappy,Really unhappy,Really happy,Somewhat unhappy,<scrubbed>
+2025-04-21 23:07:57,<scrubbed>,1,6,5,4,3,2,Really happy,Really unhappy,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-21 23:28:01,<scrubbed>,,,,,1,,,,,,Somewhat happy,,<scrubbed>
+2025-04-21 23:48:09,<scrubbed>,3,5,6,2,1,4,Ambivalent,Somewhat unhappy,Really unhappy,Somewhat happy,Really happy,Somewhat happy,<scrubbed>
+2025-04-21 23:56:58,<scrubbed>,3,6,5,4,1,2,Really unhappy,Really unhappy,Really unhappy,Really unhappy,Really happy,Somewhat happy,<scrubbed>
+2025-04-22 00:23:40,<scrubbed>,1,,5,4,3,2,Really happy,,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-22 00:44:08,<scrubbed>,1,5,6,2,4,3,Somewhat happy,Somewhat unhappy,Really unhappy,Really happy,Ambivalent,Ambivalent,<scrubbed>
+2025-04-22 01:00:29,<scrubbed>,3,2,1,5,6,4,Somewhat happy,Somewhat happy,Somewhat happy,Somewhat happy,Really happy,Somewhat happy,<scrubbed>
+2025-04-22 01:34:17,<scrubbed>,1,6,5,4,3,2,Really happy,Really unhappy,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-22 01:47:03,<scrubbed>,1,3,6,4,2,5,Somewhat happy,Ambivalent,Somewhat unhappy,Ambivalent,Somewhat happy,Ambivalent,<scrubbed>
+2025-04-22 02:33:07,<scrubbed>,2,4,5,3,6,1,Really happy,Somewhat happy,Somewhat unhappy,Really happy,Really unhappy,Really happy,<scrubbed>
+2025-04-22 02:43:38,<scrubbed>,5,2,3,4,1,6,Really unhappy,Really happy,Ambivalent,Ambivalent,Really happy,Really unhappy,<scrubbed>
+2025-04-22 02:47:28,<scrubbed>,,,3,2,,1,,,,,,,<scrubbed>
+2025-04-22 03:08:38,<scrubbed>,1,5,4,2,6,3,Somewhat happy,Somewhat unhappy,Ambivalent,Somewhat happy,Really unhappy,Ambivalent,<scrubbed>
+2025-04-22 03:20:06,<scrubbed>,2,6,5,3,1,4,Really happy,Really unhappy,Somewhat unhappy,Somewhat unhappy,Really happy,Ambivalent,<scrubbed>
+2025-04-22 03:46:17,<scrubbed>,,,,5,,,,,,,,,<scrubbed>
+2025-04-22 03:48:00,<scrubbed>,2,4,1,3,5,6,Somewhat happy,Really unhappy,Really happy,Somewhat happy,Really unhappy,Really unhappy,<scrubbed>
+2025-04-22 04:38:23,<scrubbed>,,3,1,,4,2,Really unhappy,Ambivalent,Really happy,Really unhappy,Somewhat unhappy,Somewhat happy,<scrubbed>
+2025-04-22 05:18:20,<scrubbed>,2,4,3,1,6,5,Somewhat happy,Somewhat unhappy,Ambivalent,Somewhat happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-22 05:26:55,<scrubbed>,,2,,3,1,,Somewhat unhappy,Ambivalent,Somewhat unhappy,Ambivalent,Ambivalent,Somewhat unhappy,<scrubbed>
+2025-04-22 05:37:26,<scrubbed>,1,,5,4,3,2,Really happy,,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-22 05:38:57,<scrubbed>,2,5,3,1,6,4,,,,,,,<scrubbed>
+2025-04-22 05:51:36,<scrubbed>,1,6,5,4,3,2,Really happy,Really unhappy,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-22 05:53:14,<scrubbed>,2,4,,,1,3,Ambivalent,Somewhat happy,Ambivalent,Ambivalent,Really happy,Somewhat happy,<scrubbed>
+2025-04-22 06:09:18,<scrubbed>,1,6,5,4,3,2,Somewhat happy,Really unhappy,Really unhappy,Somewhat unhappy,Ambivalent,Ambivalent,<scrubbed>
+2025-04-22 06:34:17,<scrubbed>,3,1,4,2,6,5,Somewhat unhappy,Somewhat happy,Somewhat unhappy,Ambivalent,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-22 06:39:10,<scrubbed>,5,4,,6,3,1,Somewhat unhappy,Somewhat unhappy,Somewhat unhappy,Somewhat happy,Somewhat happy,Somewhat happy,<scrubbed>
+2025-04-22 06:53:28,<scrubbed>,3,6,5,4,1,2,Somewhat happy,Really unhappy,Really unhappy,Ambivalent,Really happy,Really happy,<scrubbed>
+2025-04-22 08:56:58,<scrubbed>,4,1,,,2,3,Somewhat happy,Really happy,Somewhat unhappy,Somewhat unhappy,Somewhat happy,Really happy,<scrubbed>
+2025-04-22 08:58:28,<scrubbed>,2,3,6,1,4,5,Ambivalent,Ambivalent,Really unhappy,Ambivalent,Somewhat unhappy,Somewhat unhappy,<scrubbed>
+2025-04-22 09:02:44,<scrubbed>,1,5,2,3,4,6,Somewhat happy,Ambivalent,Somewhat happy,Somewhat happy,Ambivalent,Somewhat unhappy,<scrubbed>
+2025-04-22 09:16:02,<scrubbed>,3,5,4,2,6,1,Somewhat happy,Ambivalent,Somewhat happy,Somewhat happy,Really unhappy,Really happy,<scrubbed>
+2025-04-22 09:26:59,<scrubbed>,4,5,6,2,3,1,Ambivalent,Really unhappy,Really unhappy,Really happy,Somewhat happy,Really happy,<scrubbed>
+2025-04-22 09:29:41,<scrubbed>,1,5,,6,,,Really happy,,,,,,<scrubbed>
+2025-04-22 09:55:32,<scrubbed>,1,3,,,4,2,Really happy,Really unhappy,Really unhappy,Really unhappy,Really unhappy,Really happy,<scrubbed>
+2025-04-22 10:17:38,<scrubbed>,4,6,5,3,1,2,Ambivalent,Somewhat unhappy,Somewhat unhappy,Somewhat happy,Really happy,Really happy,<scrubbed>
+2025-04-22 10:38:57,<scrubbed>,2,,,4,1,3,Somewhat happy,,Really unhappy,Ambivalent,Really happy,Somewhat unhappy,<scrubbed>
+2025-04-22 10:56:10,<scrubbed>,1,4,3,2,6,5,Really happy,Really happy,Somewhat happy,Somewhat happy,Somewhat unhappy,Ambivalent,<scrubbed>
+2025-04-22 11:29:53,<scrubbed>,5,2,3,4,1,6,Ambivalent,Ambivalent,Ambivalent,Ambivalent,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-22 14:07:01,<scrubbed>,4,6,5,3,1,2,Ambivalent,Really unhappy,Somewhat unhappy,Somewhat happy,Really happy,Really happy,<scrubbed>
+2025-04-22 14:59:52,<scrubbed>,6,1,5,3,2,4,Somewhat unhappy,Really happy,Ambivalent,Ambivalent,Somewhat happy,Ambivalent,<scrubbed>
+2025-04-22 15:42:20,<scrubbed>,2,5,1,3,6,4,Somewhat happy,Somewhat unhappy,Really happy,Somewhat happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-22 15:58:59,<scrubbed>,5,6,2,4,1,3,Somewhat unhappy,Ambivalent,Ambivalent,Ambivalent,Really happy,Somewhat happy,<scrubbed>
+2025-04-22 15:58:59,<scrubbed>,4,3,6,5,1,2,Somewhat unhappy,Ambivalent,Really unhappy,Really unhappy,Really happy,Somewhat happy,<scrubbed>
+2025-04-22 17:44:17,<scrubbed>,4,,,1,2,3,Ambivalent,Really unhappy,Somewhat unhappy,Really happy,Somewhat happy,Ambivalent,<scrubbed>
+2025-04-22 17:44:45,<scrubbed>,3,1,4,2,6,5,Somewhat unhappy,Somewhat happy,Somewhat unhappy,Ambivalent,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-22 18:49:42,<scrubbed>,1,3,4,2,5,6,Really happy,Ambivalent,Somewhat unhappy,Somewhat happy,Ambivalent,Really unhappy,<scrubbed>
+2025-04-22 22:17:25,<scrubbed>,3,1,4,2,6,5,Somewhat unhappy,Really happy,Somewhat unhappy,Somewhat happy,Somewhat unhappy,Somewhat unhappy,<scrubbed>
+2025-04-22 23:21:22,<scrubbed>,1,6,5,3,4,2,Really happy,Really unhappy,Somewhat unhappy,Somewhat happy,Ambivalent,Really happy,<scrubbed>
+2025-04-23 03:47:17,<scrubbed>,2,5,6,4,1,3,Somewhat happy,Somewhat unhappy,Somewhat unhappy,Ambivalent,Really happy,Somewhat happy,<scrubbed>
+2025-04-23 05:35:33,<scrubbed>,1,6,5,4,3,,,Really unhappy,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-23 06:01:35,<scrubbed>,1,6,3,2,4,5,Really happy,Really unhappy,Somewhat unhappy,Somewhat happy,Ambivalent,Ambivalent,<scrubbed>
+2025-04-23 08:01:53,<scrubbed>,5,6,4,3,2,1,,Really unhappy,Somewhat unhappy,Somewhat happy,Really happy,Really happy,<scrubbed>
+2025-04-23 08:20:08,<scrubbed>,5,1,3,2,6,4,Somewhat unhappy,Really happy,Somewhat happy,Really happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-23 15:16:55,<scrubbed>,4,1,2,3,6,5,Ambivalent,Somewhat unhappy,Somewhat unhappy,Ambivalent,Somewhat happy,Somewhat happy,<scrubbed>
+2025-04-23 22:19:27,<scrubbed>,4,1,2,3,6,5,Somewhat happy,Really happy,Ambivalent,Somewhat happy,Really unhappy,Ambivalent,<scrubbed>
+2025-04-24 00:14:23,<scrubbed>,1,3,5,4,6,2,Really happy,Somewhat happy,Somewhat happy,Somewhat happy,Really unhappy,Somewhat happy,<scrubbed>
+2025-04-24 00:29:12,<scrubbed>,2,5,4,1,6,3,Somewhat unhappy,Somewhat unhappy,Really happy,Really happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-24 00:44:19,<scrubbed>,4,3,2,1,6,5,Somewhat happy,Somewhat happy,Really happy,Really happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-24 01:02:12,<scrubbed>,1,2,5,3,6,4,Really happy,Really happy,Somewhat happy,Somewhat happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-24 01:32:01,<scrubbed>,2,4,3,1,6,5,Somewhat happy,Somewhat unhappy,Somewhat unhappy,Really happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-24 04:30:06,<scrubbed>,4,1,3,2,5,6,Ambivalent,Ambivalent,Ambivalent,Ambivalent,Really unhappy,Really unhappy,<scrubbed>
+2025-04-24 06:09:32,<scrubbed>,2,1,5,3,6,4,Somewhat happy,Really happy,Somewhat unhappy,Somewhat happy,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-24 06:36:41,<scrubbed>,5,3,1,2,6,4,Somewhat unhappy,Somewhat happy,Really happy,Ambivalent,Really unhappy,Somewhat unhappy,<scrubbed>
+2025-04-24 07:01:09,<scrubbed>,5,1,3,4,2,6,Really unhappy,Really happy,Really unhappy,Really unhappy,Really happy,,<scrubbed>
+2025-04-24 09:00:42,<scrubbed>,1,6,2,4,3,5,Really happy,Somewhat unhappy,Somewhat happy,Really happy,Ambivalent,Ambivalent,<scrubbed>
+2025-04-24 09:06:42,<scrubbed>,2,3,5,1,6,4,Somewhat happy,Really unhappy,Really unhappy,Somewhat happy,Really unhappy,Really unhappy,<scrubbed>
+2025-04-24 09:51:51,<scrubbed>,,,,4,,,Ambivalent,Ambivalent,Ambivalent,Somewhat happy,Somewhat unhappy,Ambivalent,<scrubbed>
+2025-04-24 11:47:12,<scrubbed>,5,3,1,4,6,2,Somewhat unhappy,Ambivalent,Somewhat unhappy,Somewhat unhappy,Really unhappy,Ambivalent,<scrubbed>
+2025-04-24 13:11:30,<scrubbed>,3,6,5,2,1,4,Somewhat happy,Really unhappy,Somewhat unhappy,Really happy,Really happy,Ambivalent,<scrubbed>
+2025-04-24 14:12:14,<scrubbed>,5,2,1,4,6,3,Ambivalent,Somewhat happy,Really happy,Ambivalent,Really unhappy,Ambivalent,<scrubbed>
+2025-04-24 14:19:42,<scrubbed>,1,2,4,3,6,5,Really happy,Really happy,Really unhappy,Somewhat happy,Really unhappy,Ambivalent,<scrubbed>
+2025-04-24 15:11:18,<scrubbed>,2,4,6,3,1,5,Somewhat happy,Ambivalent,Somewhat unhappy,Ambivalent,Somewhat happy,Ambivalent,<scrubbed>
+2025-04-24 16:05:43,<scrubbed>,,1,,,2,,Really unhappy,Really happy,Ambivalent,Somewhat unhappy,Somewhat happy,Really unhappy,<scrubbed>
+2025-04-24 16:26:16,<scrubbed>,1,5,6,2,4,3,Really happy,Somewhat unhappy,Really unhappy,Somewhat happy,Somewhat happy,Somewhat happy,<scrubbed>
+2025-04-24 18:43:37,<scrubbed>,5,1,4,3,6,2,Somewhat unhappy,Really happy,Somewhat unhappy,Somewhat unhappy,Really unhappy,Ambivalent,<scrubbed>
+2025-04-24 23:25:18,<scrubbed>,1,6,5,4,3,2,Really happy,Really unhappy,Somewhat unhappy,Really unhappy,Somewhat happy,Somewhat happy,<scrubbed>
+2025-04-25 05:26:35,<scrubbed>,1,6,5,4,3,2,Really happy,Really unhappy,Really unhappy,Really unhappy,Ambivalent,Somewhat happy,<scrubbed>
+2025-04-25 08:49:33,<scrubbed>,3,2,6,1,4,5,Somewhat happy,Somewhat happy,Somewhat unhappy,Really happy,Somewhat happy,Ambivalent,<scrubbed>
+2025-04-25 13:52:06,<scrubbed>,3,4,5,1,6,2,Ambivalent,Somewhat unhappy,Somewhat unhappy,Somewhat happy,Really unhappy,Somewhat happy,<scrubbed>
+2025-04-26 10:40:15,<scrubbed>,2,5,,1,3,4,Somewhat happy,Ambivalent,Really unhappy,Somewhat happy,Somewhat happy,Ambivalent,<scrubbed>
+2025-04-26 13:30:13,<scrubbed>,4,2,3,1,5,6,Somewhat unhappy,Somewhat happy,Somewhat happy,Really happy,Really unhappy,Really unhappy,<scrubbed>
+2025-04-26 21:08:17,<scrubbed>,5,1,6,4,3,2,Ambivalent,Ambivalent,Ambivalent,Ambivalent,Somewhat unhappy,Somewhat happy,<scrubbed>
+2025-04-27 13:17:20,<scrubbed>,5,2,3,4,1,6,Really unhappy,Really unhappy,Really unhappy,Really unhappy,Somewhat unhappy,,<scrubbed>
+2025-04-30 05:22:47,<scrubbed>,2,5,6,3,4,1,Somewhat happy,Somewhat unhappy,Really unhappy,Somewhat happy,Ambivalent,Really happy,<scrubbed>

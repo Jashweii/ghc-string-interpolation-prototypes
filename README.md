@@ -1,5 +1,7 @@
 # GHC String Interpolation prototypes
 
+[**See results**](./results/results.ipynb)
+
 Prototypes for String Interpolation ([proposal](https://github.com/ghc-proposals/ghc-proposals/pull/570)). Not meant for production usage, but can be used to try out different implementations.
 
 Run the examples!
