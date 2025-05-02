@@ -6,4 +6,4 @@ The survey results are presented as a Python Notebook. Run the following command
 make -C results serve
 ```
 
-To view the results on GitHub, view the `results.ipynb` file directly, and GitHub will render it.
+The rendered notebook can also be viewed at https://brandonchinn178.github.io/ghc-string-interpolation-prototypes/results/
