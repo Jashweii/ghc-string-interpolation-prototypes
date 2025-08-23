@@ -38,3 +38,14 @@ executable:
     - string-syntax
     - text
   language: GHC2021
+
+benchmarks:
+  interpolation-bench:
+    source-dirs: bench/
+    main: Main.hs
+    other-modules: Gen
+    dependencies:
+      - base
+      - criterion
+      - string-syntax
+    language: GHC2021

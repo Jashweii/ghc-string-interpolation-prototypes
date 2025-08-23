@@ -22,7 +22,9 @@ newtype StringBuilder = StringBuilder (Endo String)
 instance Buildable String where
   type Builder String = StringBuilder
   toBuilder s = StringBuilder (Endo (s ++))
+  {-# INLINE toBuilder #-}
   fromBuilder (StringBuilder (Endo f)) = f ""
+  {-# INLINE fromBuilder #-}
 
 -- | Laws:
 --     * interpolate @s @s = toBuilder
